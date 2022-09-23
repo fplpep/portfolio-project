@@ -726,12 +726,9 @@ Blog
   background-color: var(--clr-grey-7);
   backface-visibility: hidden;
 }
-.blog-back h1 {
-  transform: rotateY(180deg);
+
 }
-.blog-1:hover {
-  transform: rotateY(180deg);
-}
+
 /*
 =============== 
 Footer
